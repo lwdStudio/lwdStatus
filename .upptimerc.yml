@@ -4,11 +4,17 @@ repo: lwdStatus # The name of this repository
 
 sites:
   - name: lwdSite
-    url: https://www.liwenduan.com/
+    url: https://www.liwenduan.com
   - name: lwdSite-API
     url: https://api.lwdstudio.com
   - name: lwdPhoto
-    url: https://photo.liwenduan.com/
+    url: https://photo.liwenduan.com
+  - name: lwdInventory
+    url: https://inventory.liwenduan.com
+  - name: lwdGo
+    url: https://go.liwenduan.com/app
+  - name: lwdCloud
+    url: https://cloud.liwenduan.com
   - name: lwdNet
     url: https://wifi.liwenduan.com:8443
     __dangerous__disable_verify_host: true
