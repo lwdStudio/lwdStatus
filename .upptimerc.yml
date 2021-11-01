@@ -1,31 +1,44 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: lwdStudio # Your GitHub organization or username, where this repository lives
+repo: lwdStatus # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: lwdSite
+    url: https://www.liwenduan.com
+  - name: lwdSite-API
+    url: https://api.lwdstudio.com
+  - name: lwdPhoto
+    url: https://photo.liwenduan.com
+  - name: lwdInventory
+    url: https://inventory.liwenduan.com
+  - name: lwdGo
+    url: https://go.liwenduan.com/app
+  - name: lwdCloud
+    url: https://cloud.liwenduan.com
+  - name: lwdNet
+    url: https://wifi.liwenduan.com
+    __dangerous__disable_verify_host: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.liwenduan.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://api.lwdstudio.com/uploads/lwd_stamp_mono_red_2290dbadee.svg
+  faviconSVG: https://api.lwdstudio.com/uploads/lwd_stamp_mono_red_2290dbadee.svg
+  name: lwdStatus by Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This status panel is powered by Upptime, [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: lwdService
+      href: https://www.liwenduan.com/lwdservice
+
+assignees: # Users to assign downtime issues (optional)
+  - lwdStudio
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
