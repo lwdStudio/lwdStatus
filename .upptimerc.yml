@@ -12,11 +12,11 @@ sites:
   - name: lwdInventory
     url: https://inventory.liwenduan.com
   - name: lwdGo
-    url: https://go.liwenduan.com/app
+    url: https://go.liwenduan.com
   - name: lwdCloud
     url: https://cloud.liwenduan.com
   - name: lwdNet
-    url: https://wifi.liwenduan.com
+    url: https://wifi.liwenduan.com:8443
     __dangerous__disable_verify_host: true
 
 status-website:
@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://api.lwdstudio.com/uploads/lwd_stamp_mono_red_2290dbadee.svg
   faviconSVG: https://api.lwdstudio.com/uploads/lwd_stamp_mono_red_2290dbadee.svg
   name: lwdStatus by Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: Check lwdService status here!
   introMessage: This status panel is powered by Upptime, [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
