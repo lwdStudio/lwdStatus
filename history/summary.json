@@ -4,18 +4,20 @@
     "url": "https://www.liwenduan.com",
     "icon": "https://favicons.githubusercontent.com/www.liwenduan.com",
     "slug": "lwd-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1575,
     "timeDay": 2760,
     "timeWeek": 1575,
     "timeMonth": 1575,
     "timeYear": 1575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-03": 0
+    }
   },
   {
     "name": "lwdSite-API",
@@ -94,19 +96,19 @@
     "url": "https://slytherin.liwenduan.com",
     "icon": "https://favicons.githubusercontent.com/slytherin.liwenduan.com",
     "slug": "slytherin-server",
-    "status": "down",
-    "uptime": "6.37%",
-    "uptimeDay": "6.37%",
-    "uptimeWeek": "6.37%",
-    "uptimeMonth": "6.37%",
-    "uptimeYear": "6.37%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
+    "time": 2248,
+    "timeDay": 2248,
+    "timeWeek": 2248,
+    "timeMonth": 2248,
+    "timeYear": 2248,
     "dailyMinutesDown": {
-      "2021-11-03": 0
+      "2021-11-03": 29
     }
   }
 ]
