@@ -12,6 +12,10 @@ sites:
   - name: lwdNet
     url: https://wifi.liwenduan.com:8443
     __dangerous__disable_verify_host: true
+  - name: Hufflepuff Server 
+    url: https://hufflepuff.liwenduan.com
+  - name: Slytherin Server
+    url: https://slytherin.liwenduan.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
