@@ -22,8 +22,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.liwenduan.com
   # baseUrl: /your-repo-name
-  logoUrl: https://api.lwdstudio.com/uploads/lwd_stamp_mono_red_2290dbadee.svg
-  faviconSVG: https://api.lwdstudio.com/uploads/lwd_stamp_mono_red_2290dbadee.svg
+  logoUrl: https://api.lwdstudio.com/lwd-site/uploads/lwd_stamp_mono_red_2290dbadee.svg
+  faviconSVG: https://api.lwdstudio.com/lwd-site/uploads/lwd_stamp_mono_red_2290dbadee.svg
   name: lwdStatus by Upptime
   introTitle: Check system status on all lwdServices
   introMessage: Having issue access lwdServices Application? Contact administrator via email issue.lwdsite@relay.lwdmail.com or create issue.
