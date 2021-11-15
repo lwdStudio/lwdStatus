@@ -22,18 +22,19 @@
     "url": "https://slytherin.liwenduan.com",
     "icon": "https://favicons.githubusercontent.com/slytherin.liwenduan.com",
     "slug": "slytherin-server",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 2802,
     "timeDay": 10168,
     "timeWeek": 3246,
     "timeMonth": 2802,
     "timeYear": 2802,
     "dailyMinutesDown": {
+      "2021-11-15": 0,
       "2021-11-04": 128,
       "2021-11-03": 29
     }
@@ -44,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/www.liwenduan.com",
     "slug": "lwd-site",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 2909,
     "timeDay": 14183,
     "timeWeek": 3356,
@@ -99,9 +100,9 @@
     "url": "https://wifi.liwenduan.com:8443",
     "icon": "https://favicons.githubusercontent.com/wifi.liwenduan.com",
     "slug": "lwd-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,6 +111,8 @@
     "timeWeek": 910,
     "timeMonth": 873,
     "timeYear": 873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   }
 ]
