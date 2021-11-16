@@ -4,19 +4,19 @@
     "url": "https://hufflepuff.liwenduan.com",
     "icon": "https://favicons.githubusercontent.com/hufflepuff.liwenduan.com",
     "slug": "hufflepuff-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3287,
-    "timeDay": 3400,
-    "timeWeek": 3473,
-    "timeMonth": 3287,
-    "timeYear": 3287,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 3413,
+    "timeDay": 4471,
+    "timeWeek": 3680,
+    "timeMonth": 3413,
+    "timeYear": 3413,
     "dailyMinutesDown": {
-      "2021-11-16": 2
+      "2021-11-16": 25
     }
   },
   {
