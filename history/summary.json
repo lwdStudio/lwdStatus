@@ -47,19 +47,19 @@
     "url": "https://hogwarts.liwenduan.com",
     "icon": "https://favicons.githubusercontent.com/hogwarts.liwenduan.com",
     "slug": "hogwarts-server",
-    "status": "down",
-    "uptime": "10.72%",
-    "uptimeDay": "10.72%",
-    "uptimeWeek": "10.72%",
-    "uptimeMonth": "10.72%",
-    "uptimeYear": "10.72%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.70%",
+    "uptimeDay": "1.70%",
+    "uptimeWeek": "1.70%",
+    "uptimeMonth": "1.70%",
+    "uptimeYear": "1.70%",
+    "time": 2678,
+    "timeDay": 2678,
+    "timeWeek": 2678,
+    "timeMonth": 2678,
+    "timeYear": 2678,
     "dailyMinutesDown": {
-      "2021-11-20": 0
+      "2021-11-20": 40
     }
   },
   {
@@ -123,9 +123,9 @@
     "url": "https://wifi.liwenduan.com:8443",
     "icon": "https://favicons.githubusercontent.com/wifi.liwenduan.com",
     "slug": "lwd-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -135,6 +135,7 @@
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {
+      "2021-11-20": 0,
       "2021-11-15": 24
     }
   }
