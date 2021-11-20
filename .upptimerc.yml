@@ -7,6 +7,8 @@ sites:
     url: https://hufflepuff.liwenduan.com
   - name: Slytherin Server
     url: https://slytherin.liwenduan.com
+  - name: Hogwarts Server
+    url: https://hogwarts.liwenduan.com
   - name: lwdSite
     url: https://www.liwenduan.com
   - name: API for the lwdSite
