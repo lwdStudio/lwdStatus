@@ -12,7 +12,7 @@ sites:
   - name: lwdSite
     url: https://liwenduan.com
   - name: API for the lwdSite
-    url: https://api.lwdstudio.com/lwd-site
+    url: https://api.liwenduan.com/lwd-site
   - name: lwdPhoto
     url: https://photo.liwenduan.com
   - name: lwdNet
