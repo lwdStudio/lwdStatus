@@ -1,7 +1,7 @@
 url: https://api.liwenduan.com/lwd-site
-status: down
-code: 502
-responseTime: 1102
-lastUpdated: 2022-01-13T04:57:41.351Z
+status: up
+code: 200
+responseTime: 955
+lastUpdated: 2022-01-13T06:17:02.761Z
 startTime: Sat Nov 13 2021 03:43:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
