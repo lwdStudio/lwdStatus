@@ -5,16 +5,12 @@ repo: lwdStatus # The name of this repository
 sites:
   - name: Hufflepuff Server 
     url: https://hufflepuff.liwenduan.com/check
-  - name: Slytherin Server
-    url: https://slytherin.liwenduan.com/check
   - name: Hogwarts Server
     url: https://hogwarts.liwenduan.com/check
   - name: lwdSite
     url: https://liwenduan.com
   - name: API for the lwdSite
     url: https://api.liwenduan.com/lwd-site
-  - name: lwdPhoto
-    url: https://photo.liwenduan.com
   - name: lwdNet
     url: https://wifi.liwenduan.com:8443
     # __dangerous__disable_verify_host: true
