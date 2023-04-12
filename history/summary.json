@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 3088,
-    "timeDay": 2043,
-    "timeWeek": 2244,
-    "timeMonth": 2137,
-    "timeYear": 3409,
+    "timeDay": 1983,
+    "timeWeek": 1947,
+    "timeMonth": 2146,
+    "timeYear": 3410,
     "dailyMinutesDown": {
       "2022-11-29": 35,
       "2022-11-28": 20,
@@ -54,8 +54,7 @@
       "2022-04-27": 31,
       "2022-04-22": 41,
       "2022-04-19": 32,
-      "2022-04-15": 60,
-      "2022-04-12": 18
+      "2022-04-15": 60
     }
   },
   {
@@ -69,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 987,
-    "timeDay": 245,
-    "timeWeek": 780,
-    "timeMonth": 579,
+    "time": 986,
+    "timeDay": 456,
+    "timeWeek": 358,
+    "timeMonth": 587,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2023-01-14": 16,
@@ -99,10 +98,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 1772,
-    "timeDay": 1013,
-    "timeWeek": 984,
-    "timeMonth": 967,
+    "time": 1771,
+    "timeDay": 1054,
+    "timeWeek": 1000,
+    "timeMonth": 973,
     "timeYear": 1809,
     "dailyMinutesDown": {
       "2023-01-05": 167,
@@ -121,7 +120,7 @@
     "icon": "https://api.liwenduan.com/lwd-site/uploads/icon_network_controller_3343eb8df5.png",
     "slug": "lwd-net-controller",
     "status": "down",
-    "uptime": "11.45%",
+    "uptime": "11.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -132,7 +131,8 @@
     "timeMonth": 0,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2023-04-11": 55,
+      "2023-04-12": 55,
+      "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
@@ -479,8 +479,7 @@
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
-      "2022-04-13": 1440,
-      "2022-04-12": 1440
+      "2022-04-13": 1440
     }
   }
 ]
