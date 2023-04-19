@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 3219,
-    "timeDay": 1999,
-    "timeWeek": 1940,
-    "timeMonth": 2152,
-    "timeYear": 3419,
+    "time": 3217,
+    "timeDay": 2029,
+    "timeWeek": 1947,
+    "timeMonth": 1975,
+    "timeYear": 3420,
     "dailyMinutesDown": {
       "2022-11-29": 35,
       "2022-11-28": 20,
@@ -52,8 +52,7 @@
       "2022-05-06": 40,
       "2022-04-28": 24,
       "2022-04-27": 31,
-      "2022-04-22": 41,
-      "2022-04-19": 32
+      "2022-04-22": 41
     }
   },
   {
@@ -68,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 985,
-    "timeDay": 251,
-    "timeWeek": 394,
-    "timeMonth": 592,
-    "timeYear": 1114,
+    "timeDay": 243,
+    "timeWeek": 364,
+    "timeMonth": 522,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2023-01-14": 16,
       "2022-11-17": 37,
@@ -97,10 +96,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 1760,
-    "timeDay": 948,
-    "timeWeek": 975,
-    "timeMonth": 974,
+    "time": 1758,
+    "timeDay": 1074,
+    "timeWeek": 978,
+    "timeMonth": 979,
     "timeYear": 1807,
     "dailyMinutesDown": {
       "2023-01-05": 167,
@@ -119,7 +118,7 @@
     "icon": "https://api.liwenduan.com/lwd-site/uploads/icon_network_controller_3343eb8df5.png",
     "slug": "lwd-net-controller",
     "status": "down",
-    "uptime": "11.25%",
+    "uptime": "11.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -130,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2023-04-18": 54,
+      "2023-04-19": 56,
+      "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -477,8 +477,7 @@
       "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
-      "2022-04-20": 1440,
-      "2022-04-19": 1440
+      "2022-04-20": 1440
     }
   }
 ]
