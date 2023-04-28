@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 3211,
-    "timeDay": 1801,
-    "timeWeek": 1942,
-    "timeMonth": 2028,
-    "timeYear": 3421,
+    "time": 3209,
+    "timeDay": 1634,
+    "timeWeek": 1849,
+    "timeMonth": 2018,
+    "timeYear": 3425,
     "dailyMinutesDown": {
       "2022-11-29": 35,
       "2022-11-28": 20,
@@ -49,9 +49,7 @@
       "2022-05-10": 27,
       "2022-05-09": 31,
       "2022-05-08": 20,
-      "2022-05-06": 40,
-      "2022-04-28": 24,
-      "2022-04-27": 31
+      "2022-05-06": 40
     }
   },
   {
@@ -65,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 986,
-    "timeDay": 418,
-    "timeWeek": 477,
-    "timeMonth": 549,
-    "timeYear": 1115,
+    "time": 987,
+    "timeDay": 388,
+    "timeWeek": 369,
+    "timeMonth": 550,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2023-01-14": 16,
       "2022-11-17": 37,
@@ -95,10 +93,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1745,
-    "timeDay": 895,
-    "timeWeek": 955,
-    "timeMonth": 1000,
+    "time": 1742,
+    "timeDay": 813,
+    "timeWeek": 948,
+    "timeMonth": 1004,
     "timeYear": 1810,
     "dailyMinutesDown": {
       "2023-01-05": 167,
@@ -116,18 +114,20 @@
     "icon": "https://api.liwenduan.com/lwd-site/uploads/icon_network_controller_3343eb8df5.png",
     "slug": "lwd-net-controller",
     "status": "down",
-    "uptime": "11.02%",
+    "uptime": "10.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.76%",
+    "uptimeYear": "5.22%",
     "time": 1136,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1132,
+    "timeYear": 1131,
     "dailyMinutesDown": {
-      "2023-04-26": 55,
+      "2023-04-28": 57,
+      "2023-04-27": 1440,
+      "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -475,8 +475,7 @@
       "2022-05-13": 36,
       "2022-05-09": 31,
       "2022-05-08": 20,
-      "2022-05-06": 40,
-      "2022-04-27": 31
+      "2022-05-06": 40
     }
   }
 ]
