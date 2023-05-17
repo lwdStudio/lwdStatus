@@ -11,10 +11,10 @@ sites:
   - name: lwdSite API
     url: https://api.liwenduan.com/lwd-site
     icon: https://api.liwenduan.com/lwd-site/uploads/strapi_Monogram_White_Background_afb4b8c11b.svg
-  - name: lwdNet Controller
-    url: https://wifi.liwenduan.com:8443
-    icon: https://api.liwenduan.com/lwd-site/uploads/icon_network_controller_3343eb8df5.png
-    # __dangerous__disable_verify_host: true
+  # - name: lwdNet Controller
+  #   url: https://wifi.liwenduan.com:8443
+  #   icon: https://api.liwenduan.com/lwd-site/uploads/icon_network_controller_3343eb8df5.png
+  #   # __dangerous__disable_verify_host: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,7 +25,7 @@ status-website:
   faviconSVG: https://api.liwenduan.com/lwd-site/uploads/lwd_stamp_mono_red_2290dbadee.svg
   name: lwdStatus by Upptime
   introTitle: Check system status on all lwdServices
-  introMessage: Having issue access lwdServices Application? Contact administrator via email issue.lwdsite@relay.lwdmail.com or create issue.
+  introMessage: New uptime tracking services has been setup, visit uptime.liwenduan.com in future for service status. Learn more or comment on [#238] if needed. 
   navbar:
     - title: Status
       href: /
